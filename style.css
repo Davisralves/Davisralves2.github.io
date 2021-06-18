@@ -1,3 +1,28 @@
 .center{
     text-align: center;
 }
+.paddin{
+    border: 1px solid #4CAF50;
+
+}
+h2 {
+    font-size: 25px;
+}
+body{
+    background-color: #fefae0;
+}
+.border{
+    border-style: double;
+    border-color: #d4a373;
+    padding-left: 550px;
+}
+.descricao{
+    font-size: small;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    padding-left: 600px;
+}
+.habilidades{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
