@@ -1,20 +1,27 @@
-.center{
-    text-align: center;
+header {
+display: flex;
+height: 100px;
+margin: auto;
+width: 100%;
 }
-.paddin{
-    border: 1px solid #4CAF50;
+
+
+#titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#foto_perfil {
+    display: flex;
+    width: 100px;
 
 }
-h2 {
-    font-size: 25px;
-}
+
 body{
     background-color: #fefae0;
 }
-.border{
-    border-style: double;
-    border-color: #d4a373;
-    padding-left: 550px;
+
 }
 .descricao{
     font-size: small;
